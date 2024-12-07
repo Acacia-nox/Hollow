@@ -1,0 +1,71 @@
+1. Data We Collect
+
+Hollow may collect and process the following information to provide its features and functionality:
+a. User Data:
+
+    Discord user ID
+    Discord username and discriminator (e.g., User#1234)
+    Message content (only when necessary for specific commands or features)
+
+b. Server Data:
+
+    Server ID
+    Server settings or preferences related to the Bot's functionality
+
+c. Interaction Data:
+
+    Command usage and related activity logs
+    Any data provided voluntarily through specific Bot commands
+
+2. How We Use Your Data
+
+We use the collected data to:
+
+    Execute commands and provide requested features.
+    Improve the Bot's performance and functionality.
+    Ensure the security and stability of the Bot.
+    Customize user or server-specific settings.
+
+3. Data Sharing
+
+Hollow does not share, sell, or trade your data with third parties. However, we may disclose data under the following circumstances:
+
+    If required by law or to comply with a legal obligation.
+    To prevent abuse, fraud, or other malicious activity.
+    To ensure the safety and security of users or the Bot.
+
+4. Data Storage and Retention
+
+    Data is stored temporarily in memory to process commands and fulfill requests.
+    Persistent data (e.g., server preferences) is stored securely in our database, if applicable.
+    All data is retained only for as long as necessary to provide the Bot's services. Temporary data (e.g., command usage logs) is periodically deleted.
+
+5. Your Rights
+
+As a user, you have the following rights:
+
+    Access: Request information about the data collected about you.
+    Deletion: Request that your data be deleted, where applicable.
+    Opt-out: Stop using the Bot to discontinue data collection.
+
+To exercise these rights, contact us at [Insert Contact Email or Discord Tag].
+6. Data Security
+
+We take reasonable measures to protect your data against unauthorized access, loss, or misuse. However, no system is completely secure, and we cannot guarantee absolute data security.
+7. Children's Privacy
+
+Hollow is not intended for use by individuals under the age of 13. If we discover that we have inadvertently collected data from someone under 13, we will delete it immediately.
+8. Third-Party Services
+
+Hollow operates within Discord and complies with Discord’s Privacy Policy. By using Hollow, you also agree to Discord’s policies.
+9. Policy Updates
+
+We may update this Privacy Policy from time to time. Significant changes will be communicated through the Bot or other appropriate channels. Continued use of Hollow after updates constitutes your acceptance of the revised policy.
+10. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+
+    Discord Tag: [_.arrancar._]
+    Email: [Clavicula.nox69@gmail.com]
+
+By using Hollow, you agree to this Privacy Policy. Thank you for trusting us!
